@@ -3,3 +3,4 @@ Modified file in temp1 branch.
 Modified file in temp2 branch.
 modified file in temp1 branch - to test merge.
 modified file in temp1 branch - merge successful. rebase failed. re-testing rebase.
+test failed again. 
