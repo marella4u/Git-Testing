@@ -1,4 +1,5 @@
 This is a test file added to hotfix branch.
 Modified file in temp1 branch.
 Modified file in temp2 branch.
+modified file in temp1 branch - to test merge.
 modified file in temp1 branch - to test rebase.
