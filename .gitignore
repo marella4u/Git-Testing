@@ -1,2 +1,4 @@
 #no .rtf files
 #no .DS_Store files
+*.rtf
+*.DS_Store
