@@ -4,3 +4,5 @@ Modified file in temp2 branch.-FAILED
 modified file in temp1 branch - to test merge.-FAILED
 modified file in temp1 branch - to test rebase.-FAILED
 Testing git pull --rebase -- rebases unchanged files on top of latest changes pulled from remote branch.
+
+branch1
