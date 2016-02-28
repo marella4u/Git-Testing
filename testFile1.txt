@@ -1,3 +1,4 @@
 
 Testing branch: master
-Testing Commands 1. Testing Command git fetch2
+Testing Commands 1. Testing Command git fetch
+2.Modified Master Branch to test git merge.
