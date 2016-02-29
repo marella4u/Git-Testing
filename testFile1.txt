@@ -3,4 +3,5 @@ Testing branch: master
 Testing Commands 1. Testing Command git fetch
 2.Modified Master Branch to test git merge.
 3. Testing git conflicts on temp1 branch.
+4. Modified testFile1 on temp2 branch.
 
