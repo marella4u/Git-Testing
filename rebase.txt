@@ -1,1 +1,1 @@
-Testing Rebase on a rebase testing branch. 
+Testing rebase interactive
