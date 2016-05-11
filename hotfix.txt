@@ -10,4 +10,4 @@ branch1
 master
 4/30 08:20PM - Test Git stash
 Commit -3 --  reordering commits.
-
+splitting commits.
